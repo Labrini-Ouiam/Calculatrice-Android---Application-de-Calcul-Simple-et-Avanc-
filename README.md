@@ -46,9 +46,7 @@
 3️⃣ Compilez et exécutez l'application sur un émulateur ou un appareil physique.
 
 📂 Structure du projet
-pgsql
-Copier
-Modifier
+
 Calculatrice-Android/
 │
 ├── app/
@@ -70,7 +68,7 @@ Calculatrice-Android/
 │   ├── landscape.png
 │
 ├── README.md
-└── LICENSE
+
 🤝 Contribution
 Les contributions sont les bienvenues ! 🎉
 Suivez ces étapes pour proposer vos améliorations :
@@ -78,20 +76,11 @@ Suivez ces étapes pour proposer vos améliorations :
 1️⃣ Forkez le projet.
 2️⃣ Créez une branche pour votre nouvelle fonctionnalité :
 
-bash
-Copier
-Modifier
-git checkout -b feature/NouvelleFonctionnalité
+      git checkout -b feature/NouvelleFonctionnalité
 3️⃣ Faites vos modifications et committez-les :
 
-bash
-Copier
-Modifier
-git commit -m "Ajout d'une nouvelle fonctionnalité"
+      git commit -m "Ajout d'une nouvelle fonctionnalité"
 4️⃣ Poussez votre code sur GitHub :
 
-bash
-Copier
-Modifier
-git push origin feature/NouvelleFonctionnalité
+      git push origin feature/NouvelleFonctionnalité
 5️⃣ Ouvrez une Pull Request (PR) pour demander la fusion de vos modifications.
